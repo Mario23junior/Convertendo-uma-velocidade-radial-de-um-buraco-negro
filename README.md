@@ -1,6 +1,6 @@
-<p align="center"><img src="log/pia16696-1024x768.jpg" width = "833px" height="433px"></p>
+<p align="center"><img src="log/black-hole.gif" width = "833px" height="433px"></p>
 
-<h1 align="center">Convertendo velocidade radial de um buraco-negro</h1>
+<h1 align="center">Convertendo velocidade radial de um buraco negro</h1>
 
 <h3 align="center">
 As velocidades radiais ou de linha de visão das fontes são frequentemente relatadas em um referencial heliocêntrico ou baricênico do sistema solar.
